@@ -1,0 +1,16 @@
+{
+    "name": "houcem/mvcfrm",
+    "autoload": {
+        "psr-4": {
+            "app\\Core\\": "Core/"
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "HoucemHr",
+            "email": "houcem-eddin.hrichi@enis.tn"
+        }
+    ],
+    "require": {}
+}
